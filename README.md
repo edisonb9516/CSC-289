@@ -1,2 +1,2 @@
-# CTS-289
-Repository for Capstone (CTS-289)
+# CSC-289
+Repository for Capstone (CSC-289)
